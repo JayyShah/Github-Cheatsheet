@@ -2,7 +2,7 @@
 
 # Pre-Requisites:
 
-1. Azure Machine Learning WorkSpace - Create a workspace[Create Workspace](https://learn.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources?view=azureml-api-2), if you don't have one.
+1. Azure Machine Learning WorkSpace - Create a workspace [Create Workspace](https://learn.microsoft.com/en-us/azure/machine-learning/quickstart-create-resources?view=azureml-api-2), if you don't have one.
 2. Python SDK V2 - `(pip install azure-ai-ml azure-identity)`
 3. Github Account.
 
